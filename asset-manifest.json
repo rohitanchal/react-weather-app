@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Angular-RS/static/css/main.e8786797.css",
+    "main.js": "/Angular-RS/static/js/main.8afdc285.js",
+    "static/js/787.13d76ca7.chunk.js": "/Angular-RS/static/js/787.13d76ca7.chunk.js",
+    "static/media/cloud.png": "/Angular-RS/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/Angular-RS/index.html",
+    "main.e8786797.css.map": "/Angular-RS/static/css/main.e8786797.css.map",
+    "main.8afdc285.js.map": "/Angular-RS/static/js/main.8afdc285.js.map",
+    "787.13d76ca7.chunk.js.map": "/Angular-RS/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8786797.css",
+    "static/js/main.8afdc285.js"
+  ]
+}
